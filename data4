@@ -1,0 +1,43 @@
+country,aqi strictness,date
+USA (New York)12.5,72.69,04.01.20
+UK (London)	37.5	79.63	04.01.20
+Japan (Tokyo)	37.5	40.74	04.01.20
+Australia (Sydney)	12.5	71.3	04.01.20
+Brazil (Sao Paolo)	62.5	74.54	04.01.20
+Iran (Tehran)	62.5	57.41	04.01.20
+USA (New York)	12.5	72.69	06.01.20
+UK (London)	37.5	67.59	06.01.20
+Japan (Tokyo)	37.5	28.7	06.01.20
+Australia (Sydney)	12.5	62.04	06.01.20
+Brazil (Sao Paolo)	62.5	77.31	06.01.20
+Iran (Tehran)	87.5	44.44	06.01.20
+USA (New York)	37.5	67.13	08.01.20
+UK (London)	37.5	69.91	08.01.20
+Japan (Tokyo)	37.5	34.26	08.01.20
+Australia (Sydney)	12.5	68.06	08.01.20
+Brazil (Sao Paolo)	87.5	72.69	08.01.20
+Iran (Tehran)	87.5	61.57	08.01.20
+USA (New York)	12.5	62.5	10.01.20
+UK (London)	37.5	67.59	10.01.20
+Japan (Tokyo)	37.5	29.63	10.01.20
+Australia (Sydney)	12.5	68.06	10.01.20
+Brazil (Sao Paolo)	37.5	67.13	10.01.20
+Iran (Tehran)	112.5	54.63	10.01.20
+USA (New York)	37.5	75.46	12.01.20
+UK (London)	62.5	67.59	12.01.20
+Japan (Tokyo)	62.5	42.59	12.01.20
+Australia (Sydney)	12.5	62.5	12.01.20
+Brazil (Sao Paolo)	37.5	60.65	12.01.20
+Iran (Tehran)	112.5	72.69	12.01.20
+USA (New York)	37.5	71.76	02.01.21
+UK (London)	62.5	87.96	02.01.21
+Japan (Tokyo)	37.5	49.54	02.01.21
+Australia (Sydney)	37.5	78.24	02.01.21
+Brazil (Sao Paolo)	37.5	69.91	02.01.21
+Iran (Tehran)	87.5	80.89	02.01.21
+USA (New York)	12.5	56.94	04.01.21
+UK (London)	37.5	70.37	04.01.21
+Japan (Tokyo)	12.5	42.59	04.01.21
+Australia (Sydney)	37.5	46.76	04.01.21
+Brazil (Sao Paolo)	37.5	70.83	04.01.21
+Iran (Tehran)	87.5	81.48	04.01.21
